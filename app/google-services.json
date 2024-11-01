@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "107772544843",
+    "firebase_url": "https://techweek2024dbfinalized-default-rtdb.firebaseio.com",
+    "project_id": "techweek2024dbfinalized",
+    "storage_bucket": "techweek2024dbfinalized.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107772544843:android:13b9037be22332c1718ace",
+        "android_client_info": {
+          "package_name": "com.example.prjtechweekapp_finalized"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFPohqs8EEsU5yrgc5ZicPwarsMrU0gbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
