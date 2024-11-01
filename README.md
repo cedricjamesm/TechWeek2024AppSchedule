@@ -1,6 +1,6 @@
 # Tech Week Schedule App
 
-Tech Week Schedule is an Android application developed by Karim and [Your Name]. This app provides users with a convenient way to view the schedule for Tech Week at school, displaying the daily activities planned for each day.
+Tech Week Schedule is an Android application developed by Karim and Cedric. This app provides users with a convenient way to view the schedule for Tech Week at school, displaying the daily activities planned for each day.
 
 ## Features
 
