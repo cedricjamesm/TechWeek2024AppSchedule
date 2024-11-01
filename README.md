@@ -18,4 +18,4 @@ Tech Week Schedule is an Android application developed by Karim and Cedric. This
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tech-week-schedule.git
+   git clone https://github.com/yourusername/TechWeek2024AppSchedule.git
